@@ -12,8 +12,6 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 
 ### 获取服务器配置链接
 
-https://renwu99-my.sharepoint.com/:t:/g/personal/renyi_renwu99_onmicrosoft_com/EWUWFfVdz5VIg71mgh-O_LoBFzCVzqvgJFABODIi-aEvtQ?e=BM8hLo
-
 ### 配置 V2rayNG
 
 打开 V2rayNG 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。
