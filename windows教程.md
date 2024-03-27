@@ -15,8 +15,6 @@ V2rayN 要求系统安装有 [Microsoft .NET Framework 4.8](https://dotnet.micro
 
 ### 获取服务器配置链接
 
-https://renwu99-my.sharepoint.com/:t:/g/personal/renyi_renwu99_onmicrosoft_com/EWUWFfVdz5VIg71mgh-O_LoBFzCVzqvgJFABODIi-aEvtQ?e=BM8hLo
-
 ### 配置 V2rayN
 ---------
 
